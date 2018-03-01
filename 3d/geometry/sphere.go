@@ -1,6 +1,6 @@
 package geometry
 
-import "github.com/programmerjames/go/vector"
+import "github.com/programmerjames/go/3d/vector"
 
 type Sphere struct {}
 
